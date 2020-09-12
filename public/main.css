@@ -8,6 +8,7 @@ body{
     background-image: url(lmages/henry-dick-fJN7zfUvM8w-unsplash.jpg);
     background-position: top center;
     background-size: cover;
+    background-repeat: no-repeat;
 }
 .wrap{
 display: flex;
